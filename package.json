@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Template used for creating bots with TypeScript and discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tevž Selčan",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.0",
+    "glob": "^8.0.3",
+    "typescript": "^4.6.4"
+  }
+}
